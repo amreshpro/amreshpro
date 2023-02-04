@@ -1,8 +1,9 @@
 ![Imgur](https://i.imgur.com/LUXEjth.png)
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
-![Imgur](https://i.imgur.com/cOw5hrc.gifv)
-<h3 align="center">A passionate frontend developer from India.I code beautifully simple things.I enjoy creating things that live on internet and I love what I do.</h3>
+
+<h3 align="center">A passionate frontend developer from India.I enjoy creating things that live on internet.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursamresh&label=Profile%20views&color=0e75b6&style=flat" alt="ursamresh" /> </p>
 
