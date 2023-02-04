@@ -14,7 +14,7 @@
 - 📫 How to reach me **amresh2478@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13y-2mNcsvvpm5ExieSl4uNvOQkbRmCUR/view](https://drive.google.com/file/d/13y-2mNcsvvpm5ExieSl4uNvOQkbRmCUR/view)
-
+- 😎 Fun Fact **I am funny 😂**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ursamresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ursamresh" height="30" width="40" /></a>
