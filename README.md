@@ -1,6 +1,6 @@
 ![Imgur](https://i.imgur.com/HInYnB9.jpg)
 <h1 align="center">Hi 👋, I'm Amresh Maurya</h1>
-<h3 align="center">A passionate frontend developer from India.I enjoy creating things that live on internet and I love what I do.</h3>
+<h3 align="center" style="color:"#fde234";">A passionate frontend developer from India.I enjoy creating things that live on internet and I love what I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amresh9&label=Profile%20views&color=0e75b6&style=flat" alt="amresh9" /> </p>
 
