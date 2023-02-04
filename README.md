@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from India.I enjoy creating things that live on internet.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/cOw5hrc.gif">
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursamresh&label=Profile%20views&color=0e75b6&style=flat" alt="ursamresh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ursamresh" alt="ursamresh" /></a> </p>
