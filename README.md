@@ -1,4 +1,4 @@
-
+![Imgur](https://i.imgur.com/LUXEjth.png)
 
 <h1 align="center">Hi , I'm Amresh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India.I code beautifully simple things.I enjoy creating things that live on internet and I love what I do.</h3>
