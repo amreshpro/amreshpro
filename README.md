@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Amresh Maurya</h1>
 <h3 align="center" style="color:"#fde234";">A passionate frontend developer from India.I enjoy creating things that live on internet and I love what I do.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amresh9&label=Profile%20views&color=0e75b6&style=flat" alt="amresh9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ursamresh&label=Profile%20views&color=0e75b6&style=flat" alt="amresh9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amresh9" alt="amresh9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ursamresh" target="blank"><img src="https://img.shields.io/twitter/follow/ursamresh?logo=twitter&style=for-the-badge" alt="ursamresh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://amreshify.netlify.app/](https://amreshify.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amreshify.netlify.app/](https://ursamresh.netlify.app/)
 
-- 📫 How to reach me **amreshprof999@gmail.com**
+- 📫 How to reach me **amresh2478gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13y-2mNcsvvpm5ExieSl4uNvOQkbRmCUR/view](https://drive.google.com/file/d/13y-2mNcsvvpm5ExieSl4uNvOQkbRmCUR/view)
 
