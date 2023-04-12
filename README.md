@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/LUXEjth.png)
+![Imgur](https://photos.app.goo.gl/rZKs7wV7a3aKjqLN8)
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
 
