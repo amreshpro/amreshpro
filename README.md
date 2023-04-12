@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **amresh2478@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13y-2mNcsvvpm5ExieSl4uNvOQkbRmCUR/view](https://drive.google.com/file/d/13y-2mNcsvvpm5ExieSl4uNvOQkbRmCUR/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1jAxmUocJRVkTFNiW7V1va54PPTdFGnLd/view?usp=drivesdk )
 - 😎 Fun fact **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
