@@ -1,4 +1,4 @@
-![Imgur](https://photos.app.goo.gl/rZKs7wV7a3aKjqLN8)
+![Imgur](https://photos.google.com/share/AF1QipPtuCGvoq5UhD1jDkia6YSXssI2nKuxHhvgfCqvNqrazKLzuCEis0o8eQWT1gtouA/photo/AF1QipPUrBXyR6n9xGt7657a9mR4CpA5xYh-PXV45tpD?key=aVcyNUxXc19tdVBCQkl2b1k5cFJhYnhPWnBaemNR)
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
 
