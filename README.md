@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://ursamresh.netlify.app/](https://ursamresh.netlify.app/)
 
-- 📫 How to reach me **amresh2478@gmail.com**
+- 📫 How to reach me **amresh.terminal@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1jAxmUocJRVkTFNiW7V1va54PPTdFGnLd/view?usp=drivesdk )
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jAxmUocJRVkTFNiW7V1va54PPTdFGnLd/view?usp=drivesdk ](https://drive.google.com/file/d/1jAxmUocJRVkTFNiW7V1va54PPTdFGnLd/view?usp=drivesdk )
 - 😎 Fun fact **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
