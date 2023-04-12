@@ -1,4 +1,4 @@
-![Imgur](https://photos.google.com/share/AF1QipPtuCGvoq5UhD1jDkia6YSXssI2nKuxHhvgfCqvNqrazKLzuCEis0o8eQWT1gtouA/photo/AF1QipPUrBXyR6n9xGt7657a9mR4CpA5xYh-PXV45tpD?key=aVcyNUxXc19tdVBCQkl2b1k5cFJhYnhPWnBaemNR.png)
+![Imgur](https://lh3.googleusercontent.com/pw/AJFCJaWZXzjKhkENLX0qHdYBE2Ns8DppwSHvk5TIge_T4-vHzGROvjejUNavaTPk3yK5sqUXXVP5C6ShCh8RydK8fgxZAo5RcXbWqTBNibMoaaw9F7Vrso_CXt9tBhUGesZ4hGBbudkKTVLSvRjjNRtvhbs=w1366-h342-s-no?authuser=0)
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
 
