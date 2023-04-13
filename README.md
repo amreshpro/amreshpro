@@ -1,3 +1,5 @@
+<div>
+
 ![Imgur](https://lh3.googleusercontent.com/pw/AJFCJaWZXzjKhkENLX0qHdYBE2Ns8DppwSHvk5TIge_T4-vHzGROvjejUNavaTPk3yK5sqUXXVP5C6ShCh8RydK8fgxZAo5RcXbWqTBNibMoaaw9F7Vrso_CXt9tBhUGesZ4hGBbudkKTVLSvRjjNRtvhbs=w1366-h342-s-no?authuser=0)
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
@@ -38,5 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ursamresh&theme=tokyonight" alt="ursamresh" /></p>
 
-
+</div>
  
