@@ -1,5 +1,4 @@
 
-#gh-dark-mode-only 
 <h1 align="center">Hi 👋, I'm Amresh Maurya</h1>
 
 
