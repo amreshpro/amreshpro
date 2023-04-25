@@ -1,6 +1,6 @@
 <div>
 
-![profile]("https://media.licdn.com/dms/image/D4D16AQHd4KDtlTvC6g/profile-displaybackgroundimage-shrink_350_1400/0/1682358053805?e=1687996800&v=beta&t=IAU8fticPQCfgXEqSiTAVEqVsFflRAqeBd72ParnpOI")
+![profile](https://media.licdn.com/dms/image/D4D16AQHd4KDtlTvC6g/profile-displaybackgroundimage-shrink_350_1400/0/1682358053805?e=1687996800&v=beta&t=IAU8fticPQCfgXEqSiTAVEqVsFflRAqeBd72ParnpOI)
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursamresh&label=Profile%20views&color=0e75b6&style=flat" alt="ursamresh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ursamresh" alt="ursamresh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="amreshpro" alt="amreshpro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ursamresh" target="blank"><img src="https://img.shields.io/twitter/follow/ursamresh?logo=twitter&style=for-the-badge" alt="ursamresh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ursamresh.netlify.app/](https://ursamresh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amreshpro.com](https://amreshpro.com/)
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
