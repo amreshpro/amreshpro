@@ -1,6 +1,6 @@
 <div>
 
-![Imgur](https://lh3.googleusercontent.com/pw/AJFCJaWZXzjKhkENLX0qHdYBE2Ns8DppwSHvk5TIge_T4-vHzGROvjejUNavaTPk3yK5sqUXXVP5C6ShCh8RydK8fgxZAo5RcXbWqTBNibMoaaw9F7Vrso_CXt9tBhUGesZ4hGBbudkKTVLSvRjjNRtvhbs=w1366-h342-s-no?authuser=0)
+![profile]("https://media.licdn.com/dms/image/D4D16AQHd4KDtlTvC6g/profile-displaybackgroundimage-shrink_350_1400/0/1682358053805?e=1687996800&v=beta&t=IAU8fticPQCfgXEqSiTAVEqVsFflRAqeBd72ParnpOI")
 
 <h1 align="center">Hi, I'm Amresh Maurya</h1>
 
