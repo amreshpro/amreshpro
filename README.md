@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/ursamresh" target="blank"><img src="https://img.shields.io/twitter/follow/ursamresh?logo=twitter&style=for-the-badge" alt="ursamresh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [amreshpro.com](amreshpro.com)
+- 👨‍💻 All of my projects are available at [amreshpro.com](https://amreshpro.com)
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
