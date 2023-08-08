@@ -6,6 +6,9 @@
 
 
 ##  A passionate web developer from India
+### Determined individual looking for an engineering job with detailed knowledge in Javascript, Reactjs, Nextjs, Expressjs, Nodejs, TailwindCSS, Java, Python,, MongoDB. An added advantage of knowing Linux,Docker. Ability to write, test, maintain, and debug codes.
+
+
 
 !["profile-views"](https://komarev.com/ghpvc/?username=amreshpro&label=Profile%20views&color=0e75b6&style=flat)
 
