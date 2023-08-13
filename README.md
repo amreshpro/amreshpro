@@ -2,7 +2,7 @@
 #   Hello there 🖐, I am Amresh Maurya.
 
 
-![profile](https://media.licdn.com/dms/image/D4D16AQHd4KDtlTvC6g/profile-displaybackgroundimage-shrink_350_1400/0/1682358053805?e=1693440000&v=beta&t=zknlDyrb8ZrlA-gF_V7I3_8WPkyy_aq7klPWce21xgA)
+![profile-image](https://media.licdn.com/dms/image/D4D16AQHd4KDtlTvC6g/profile-displaybackgroundimage-shrink_350_1400/0/1682358053805?e=1693440000&v=beta&t=zknlDyrb8ZrlA-gF_V7I3_8WPkyy_aq7klPWce21xgA)
 
 
 ##  A passionate web developer from India
