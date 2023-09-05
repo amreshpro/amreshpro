@@ -24,6 +24,6 @@
 
 !["contribution"](https://github-readme-streak-stats.herokuapp.com/?user=amreshpro&theme=dark)
 
-####  happy coding ♥️♥️♥️♥️^^
+####  happy coding ♥️♥️♥️♥️
 
 
