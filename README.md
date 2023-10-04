@@ -21,7 +21,6 @@
 !["stats"](https://github-readme-stats.vercel.app/api?username=amreshpro&theme=dark&show_icons=true&locale=en)
 
 
-[//]: # !["contribution"](https://github-readme-streak-stats.herokuapp.com/?user=amreshpro&theme=dark) 
 
 ####  happy coding ♥️🎯❤️
 
