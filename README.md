@@ -5,7 +5,7 @@ Web Developer | Frontend Dev | React Dev
 ----------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [amreshpro](http://amreshpro.com)
+* 🖥️  See my portfolio at [amreshpro.com](http://amreshpro.com)
 * 🧠  I'm learning React.js
 
 <a href="https://www.github.com/amreshpro" target="_blank" rel="noreferrer"><img
