@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amresh Maurya
-=====================================================================================================================================
 
-Web Developer | Frontend Dev | React Dev | MERN
-----------------------------------------
 
 <a href="https://www.github.com/amreshpro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/amreshpro?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
