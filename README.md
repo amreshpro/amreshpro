@@ -33,7 +33,7 @@
 
 ###
 
-<p align="center">I'm Amresh from India<br>
+<p align="left">I'm Amresh from India<br>
 <br>- 📚 I'm currently learning React.js
 <br> - 🖥️  See my portfolio at <a href="">amreshpro.com</a>
  </p>
