@@ -1,6 +1,7 @@
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4E03AQHWr-Zz5uR3hQ/profile-displayphoto-shrink_200_200/0/1702712679718?e=1716422400&v=beta&t=gg5P3KkKEO32E66vAoXFHnqvFH9XUjm5JmM_67vKc7Q" align="center"/> </div>
 
-### <div align="center">I'm Amresh Maurya</div>  
+### 
+<div align="center">I'm Amresh Maurya</div>  
   
 
 - 🔭 I’m currently working on eCommerce Project  
