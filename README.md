@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amreshpro.vercel.app](https://amreshpro.vercel.app)
 
-- 💬 Ask me about **Javascript,Java,Reactjs,SpringBoot,express,Elysia**
+- 💬 Ask me about **Javascript,Java,go,Reactjs,SpringBoot,express,Elysia,**
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
