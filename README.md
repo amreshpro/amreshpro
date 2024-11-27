@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amresh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://amreshpro.vercel.app](https://amreshpro.vercel.app)
+- 👨‍💻 All of my projects are available at [https://amreshpro.netlify.app](https://amreshpro.netlify.app)
 
-- 💬 Ask me about **Javascript,Java,go,Reactjs,SpringBoot,Express,**
+- 💬 Ask me about **Javascript,Reactjs,Express,C++**
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
@@ -17,6 +17,6 @@
 <a href="https://discord.gg/amresh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amresh9" height="30" width="40" /></a>
 </p>
 
-### **Happy Coding!!!!!!!₹₹₹0.0** 
+### **Happy Coding!** 
 
 
