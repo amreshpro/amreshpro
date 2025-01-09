@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://amreshpro.netlify.app](https://amreshpro.netlify.app)
+- 👨‍💻 All of my projects are available at [https://amreshpro.vercel.app](https://amreshpro.vercel.app)
 
 - 💬 Ask me about **react,express,nextjs,springboot,java**
 
