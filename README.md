@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amreshpro.vercel.app](https://amreshpro.vercel.app)
 
-- 💬 Ask me about **react,express,nextjs,springboot,java**
+- 💬 Ask me about **react,express,nextjs,springboot,java,MySQL**
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
