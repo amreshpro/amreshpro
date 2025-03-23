@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software engineer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://amreshpro.vercel.app](https://amreshpro.vercel.app)
+- 👨‍💻 All of my projects are available at [https://amreshmaurya.com](https://amreshmaurya.com)
 
 - 💬 Ask me about **react,express,nextjs,springboot,java,MySQL**
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
-- 📄 Know about my experiences [https://amreshpro.netlify.app/Resume.pdf](https://amreshpro.netlify.app/Resume.pdf)
+- 📄 Know about my experiences [https://amreshmaurya.com/Resume.pdf](https://amreshmaurya.com/Resume.pdf)
 
 - ⚡ Fun fact **I am funny**
 
