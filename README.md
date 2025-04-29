@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **amresh.terminal@gmail.com**
 
-- 📄 Know about my experiences [https://amreshmaurya.com/Resume.pdf](https://amreshmaurya.com/Resume.pdf)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
