@@ -2,7 +2,6 @@
 <h3 align="center">A passionate software engineer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://amreshmaurya.com](https://amreshmaurya.com)
 
 - 💬 Ask me about **react,express,nextjs,springboot,java,MySQL**
 
